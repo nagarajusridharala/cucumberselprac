@@ -32,6 +32,5 @@ public class Base
             System.out.println("Check getDriver method.");
         }
         return driver;
-        // hello
     }
 }
